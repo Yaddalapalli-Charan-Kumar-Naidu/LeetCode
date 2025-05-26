@@ -18,11 +18,14 @@ class Solution {
         //         matrix[i][j]=temp[i][j];
         //     }
         // }
+        
+        //transpose
         for(int i=0;i<matrix.length;i++){
             for(int j=i+1;j<matrix[0].length;j++){
                 normalSwap(matrix,i,j);
             }
         }
+        //reverse
         for(int i=0;i<matrix.length;i++){
             int left = 0, right = matrix.length- 1;
             while (left < right) {
