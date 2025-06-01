@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,4 +101,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## String
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
