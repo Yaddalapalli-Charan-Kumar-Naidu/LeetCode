@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0268-missing-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0229-majority-element-ii) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0013-roman-to-integer) |
 | [0451-sort-characters-by-frequency](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
