@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
