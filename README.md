@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
@@ -120,5 +121,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
