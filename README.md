@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0283-move-zeroes) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
