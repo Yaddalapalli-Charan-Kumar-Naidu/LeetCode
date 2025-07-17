@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0054-spiral-matrix) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1552-build-an-array-with-stack-operations](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
