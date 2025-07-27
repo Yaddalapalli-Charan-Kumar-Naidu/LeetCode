@@ -23,8 +23,9 @@ class Solution {
         while(temp!=null){
             Node newNode=new Node(temp.val);
             newTemp.next=newNode;
-            map.put(temp,newNode);
             newTemp=newTemp.next;
+            map.put(temp,newTemp);
+
             temp=temp.next;
 
         }
