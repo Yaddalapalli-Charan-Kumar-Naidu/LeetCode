@@ -13,6 +13,8 @@ class Solution {
         // return count;
 
         return atMostGoal(nums,goal)-atMostGoal(nums,goal-1);
+        //find the all the subarray with sum less than or equal to goal and remove the subarray where sum is less than or equal to goal -1 then we get subarray count with sum equal to goal
+        // count=(count<=goal)-(count<=goal-1) this gives count == goal
     }
     public int atMostGoal(int[] nums,int goal){
         if(goal<0) return 0;
