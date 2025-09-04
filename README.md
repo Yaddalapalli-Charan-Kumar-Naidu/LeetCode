@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Simulation
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Heap (Priority Queue)
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
@@ -207,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
