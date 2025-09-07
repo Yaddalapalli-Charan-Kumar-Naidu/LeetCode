@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0268-missing-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## String
 |  |
 | ------- |
@@ -212,8 +216,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
