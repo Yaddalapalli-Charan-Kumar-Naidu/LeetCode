@@ -22,9 +22,9 @@ class Solution {
             if(res>Integer.MAX_VALUE/10 || res<Integer.MIN_VALUE/10){
                 return 0;
             }
-            if((res==Integer.MAX_VALUE/10 && d>7) ||(res==Integer.MIN_VALUE/10 && d<-8)){
-                return 0;
-            }
+            // if((res==Integer.MAX_VALUE/10 && d>7) ||(res==Integer.MIN_VALUE/10 && d<-8)){
+            //     return 0;
+            // }
                         res=res*10+d;
 
             temp=temp/10;
