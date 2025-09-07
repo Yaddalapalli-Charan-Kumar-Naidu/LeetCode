@@ -3,14 +3,10 @@ class Solution {
         int left=0;
         int right=0;
         while(right<nums.length){
-            if(nums[left]==nums[right]){
-                right++;
+            if(nums[left]!=nums[right]){
+                nums[++left]=nums[right];
             }
-            else{
-                left++;
-                nums[left]=nums[right];
-                right++;
-            }
+            right++;
         }
         return left+1;
     }
