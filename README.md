@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0118-pascals-triangle) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Yaddalapalli-Charan-Kumar-Naidu/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
