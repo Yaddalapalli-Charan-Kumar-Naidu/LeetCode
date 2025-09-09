@@ -1,28 +1,27 @@
 class Solution {
     public void sortColors(int[] nums) {
         // Arrays.sort(nums);
-        int count0=0;
-        int count1=0;
-        int count2=0;
+        int ones=0;
+        int zeros=0;
+        int twos=0;
         for(int i=0;i<nums.length;i++){
-            if(nums[i]==0){
-                count0++;
-            }
-            else if(nums[i]==1){
-                count1++;
-            }
-            else{
-                count2++;
-            }
+            if(nums[i]==0) zeros++;
+            else if(nums[i]==1) ones++;
+            else twos++;
         }
-        for(int i=0;i<count0;i++){
+        System.out.println("ones"+ones);
+        System.out.println("onzeroses"+zeros);
+        System.out.println("ones"+twos);
+
+        for(int i=0;i<zeros;i++){
             nums[i]=0;
         }
-        for(int i=count0;i<count0+count1;i++){
+        for(int i=zeros;i<zeros+ones;i++){
             nums[i]=1;
         }
-        for(int i=count1+count0;i<count0+count1+count2;i++){
+        for(int i=ones+zeros;i<zeros+ones+twos;i++){
             nums[i]=2;
         }
+
     }
 }
